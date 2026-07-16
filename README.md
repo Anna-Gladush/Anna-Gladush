@@ -1,6 +1,33 @@
-## Hi there 👋
+## 🔭 Hello there!
 
-<!--
+<p>I'm Anna, a bioingeener/bioinformatician graduate turned <b>fullstack developer</b>.</p>
+<p>I'm currently working on a weather application, finishing The Odin Project and learning TypeScript.</p>
+
+
+## Tools and Tech
+<ul>
+  <li>Languages: JS, CSS, HTML</li>
+  <li>Frameworks: Express</li>
+  <li>Libraries: React, a little bit of THREE.js</li>
+  <li>JS runtime: Node, Bun</li>
+  <li>Builders: Webpack, Vite</li>
+  <li>Package managers: npm, yarn, Bun</li>
+  <li>Tools: Git, Postman, PostgreSQL, Figma</li>
+</ul>
+
+
+## About me
+<ul>
+  <li>I'm into history, biology, art and computer sciences.</li>
+</ul>
+
+<!-- WHO YOU ARE-->
+<!-- WHAT ARE YOU CURRENTLY WORKING ON-->
+<!-- WHAT TOOLS DO YOU USE-->
+<!-- HOW TO REACH YOU-->
+
+<!--## Hi there 👋
+
 **Anna-Gladush/Anna-Gladush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

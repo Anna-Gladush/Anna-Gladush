@@ -6,8 +6,9 @@
 
 ## Tools and Tech
 <ul>
-  <li>Languages: JS, CSS, HTML</li>
-  <li>Frameworks: Express</li>
+  <li>Languages: JS, CSS, HTML, TypeScript</li>
+  <li>CSS preprocessors: SCSS</li>
+  <li>Frameworks: Express, Elysia</li>
   <li>Libraries: React, a little bit of THREE.js</li>
   <li>JS runtime: Node, Bun</li>
   <li>Builders: Webpack, Vite</li>

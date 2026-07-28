@@ -1,7 +1,7 @@
 ## 🔭 Hello there!
 
-<p>I'm Anna, a bioingeener/bioinformatician graduate turned <b>fullstack developer</b>.</p>
-<p>I'm currently working on a weather application, finishing The Odin Project and learning TypeScript.</p>
+<p>I'm Anna, a bioingeener/bioinformatician graduate turned <b>full-stack developer</b>.</p>
+<p>I'm currently working on a weather application and a task management app (that uses Ruri Ohama's Kaizen Log system), finishing The Odin Project.</p>
 
 
 ## Tools and Tech
@@ -19,7 +19,7 @@
 
 ## About me
 <ul>
-  <li>I'm into history, biology, art and computer sciences.</li>
+  <li>I'm into history, biology, art, and computer science.</li>
 </ul>
 
 <!-- WHO YOU ARE-->

@@ -31,10 +31,12 @@
 ## Connect with me
 <div style="display: flex; align-items: center; justify-content: center">
 <a href="https://www.linkedin.com/in/anna-gladush-194372201/">
-  <img align="left" alt="LinkedIn" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+</a>
+<a href="mailto:ann.gladush@gmail.com">
+  <img src="https://img.icons8.com/color/96/000000/gmail.png" width="45px" alt="email"/>
 </a>
 
-[![Gmail Badge](https://img.shields.io/badge/-ann.gladush@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ann.gladush@gmail.com)](mailto:ann.gladush@gmail.com)
 
 </div>
 <!-- <a href="/">CV Resume</a> -->
@@ -43,6 +45,7 @@
 <ul>
   <li>I'm into history, biology, art, and computer science.</li>
   <li>I'm currently working on an e-commerce app and another app for task management (that uses Ruri Ohama's Kaizen Log system).</li>
+  <li>Currently learning NextJS</li>
 </ul>
 
 

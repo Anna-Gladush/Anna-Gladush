@@ -1,44 +1,49 @@
-## 🔭 Hello there!
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+Anna!;Fullstack-developer.;)](https://git.io/typing-svg)
 
-<p>I'm Anna, a bioingeener/bioinformatician graduate turned <b>full-stack developer</b>.</p>
-<p>I'm currently working on a weather application and a task management app (that uses Ruri Ohama's Kaizen Log system), finishing The Odin Project.</p>
-
+<p>Bioingeener/bioinformatician graduate turned <b>full-stack developer</b>. <a href="https://anna-gladush.github.io/Portfolio/">Personal site</a>.</p>
 
 ## Tools and Tech
-<ul>
-  <li>Languages: JS, CSS, HTML, TypeScript</li>
-  <li>CSS preprocessors: SCSS</li>
-  <li>Frameworks: Express, Elysia</li>
-  <li>Libraries: React, a little bit of THREE.js</li>
-  <li>JS runtime: Node, Bun</li>
-  <li>Builders: Webpack, Vite</li>
-  <li>Package managers: npm, yarn, Bun</li>
-  <li>Tools: Git, Postman, PostgreSQL, Figma</li>
-</ul>
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<span style="background-color: #ffffff; ">
+<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+</span>
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bun" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgeSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<br />
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anna-Gladush)](https://git.io/streak-stats)
+
+## Connect with me
+<div style="display: flex; align-items: center; justify-content: center">
+<a href="https://www.linkedin.com/in/anna-gladush-194372201/">
+  <img align="left" alt="LinkedIn" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+</a>
+
+[![Gmail Badge](https://img.shields.io/badge/-ann.gladush@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ann.gladush@gmail.com)](mailto:ann.gladush@gmail.com)
+
+</div>
+<!-- <a href="/">CV Resume</a> -->
 
 ## About me
 <ul>
   <li>I'm into history, biology, art, and computer science.</li>
+  <li>I'm currently working on an e-commerce app and another app for task management (that uses Ruri Ohama's Kaizen Log system).</li>
 </ul>
 
-<!-- WHO YOU ARE-->
-<!-- WHAT ARE YOU CURRENTLY WORKING ON-->
-<!-- WHAT TOOLS DO YOU USE-->
-<!-- HOW TO REACH YOU-->
 
-<!--## Hi there 👋
-
-**Anna-Gladush/Anna-Gladush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Check Out My Repos ⬇️

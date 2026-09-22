@@ -1,6 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+Anna!;Fullstack-developer.;)](https://git.io/typing-svg)
 
-<p>Bioingeener/bioinformatician graduate turned <b>full-stack developer</b>. <a href="https://anna-gladush.github.io/Portfolio/">Personal site</a>.</p>
+<p>Bioingeener/bioinformatician graduate turned aspiring <b>full-stack developer</b>. </p>
+  <!--  <a href="https://anna-gladush.github.io/Portfolio/">Personal site</a>. -->
+
 
 ## Tools and Tech
 

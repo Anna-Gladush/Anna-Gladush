@@ -45,8 +45,8 @@
 
 ## About me
 <ul>
-  <li>I'm into history, biology, art, and computer science.</li>
-  <li>I'm currently working on an e-commerce app and another app for task management (that uses Ruri Ohama's Kaizen Log system).</li>
+  <li>I like history, biology, art, and computer science.</li>
+  <li>I'm currently completing Fullstack Open.</li>
   <li>Currently learning NextJS and Express</li>
 </ul>
 
